@@ -1,5 +1,5 @@
 Barta
-Barta is a dynamic social application built with Laravel, designed to enable seamless user interaction through posts, comments, and likes. With a focus on performance and usability, Barta provides real-time updates, advanced search capabilities, and comprehensive user profile management.
+Barta is a dynamic social application built with Laravel, designed to enable seamless user interaction through posts, comments, and likes. With a focus on performance and usability, Barta provides real-time updates, advanced search capabilities, and comprehensive user profile management. 
 
 ✨ Features
 Core Features
